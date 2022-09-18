@@ -1,7 +1,7 @@
 # BirdMusicApp
 
 Hey Everyone, this is a BirdApp I made in Swift UI to help with audio configuration, 
-while adding on different view points such as HStack, VStack, adn VStacks.
+while adding on different view points such as HStack, VStack, and VStacks.
 
 Along with a search bar to look for names of birds and counter for how many times an audio has been played.
 
